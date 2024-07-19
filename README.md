@@ -22,7 +22,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
-<!--
+
 <table>
   <tr>
     <td>
@@ -35,7 +35,7 @@
     </td>
   </tr>
 </table>
--->
+
 
 
 ## Profile Visits
