@@ -1,6 +1,5 @@
 # Hi 👋, I'm Saima Siddiqui
 
-- 🌱 I'm currently learning MERN stack
 - 🔭 I'm working on Mini projects
 - 💬 Ask me about Java and web development.
 - ⚡ Fun fact: My social skills are in binary.
