@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saima Siddiqui
+# Hi 👋, I'm Saima 
 
 - 🔭 I'm working on Mini projects
 - 💬 Ask me about Java and web development.
