@@ -22,7 +22,7 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 
-<table>
+<!--- <table>
   <tr>
     <td>
       <h3>Most Used Languages</h3>
@@ -33,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Saima223&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
   </tr>
-</table>
+</table> 
 
 
 
@@ -41,7 +41,7 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Saima223}/count.svg" alt="Visitor Count" />
-</p>
+</p> -->
 
 ## Support My Work ☕ 
 
